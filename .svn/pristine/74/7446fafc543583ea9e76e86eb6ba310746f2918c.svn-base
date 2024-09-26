@@ -1,0 +1,16 @@
+0000000000000000000000000000000000000000 807299e743c4e079ec8c11195c932191cc3b309c Nguyen Van Manh <elroydevops@gmail.com> 1701517649 +0700	commit (initial): feat: create base project
+807299e743c4e079ec8c11195c932191cc3b309c 4ed79aa016aaa0979818f0e2377ddf8f54a0463f buithethang <buithang22072003@gmail.com> 1727147917 +0000	commit: day du an len git
+4ed79aa016aaa0979818f0e2377ddf8f54a0463f 0000000000000000000000000000000000000000 buithethang <buithang22072003@gmail.com> 1727148321 +0000	Branch: renamed refs/heads/main to refs/heads/main
+4ed79aa016aaa0979818f0e2377ddf8f54a0463f 4ed79aa016aaa0979818f0e2377ddf8f54a0463f buithethang <buithang22072003@gmail.com> 1727148321 +0000	Branch: renamed refs/heads/main to refs/heads/main
+4ed79aa016aaa0979818f0e2377ddf8f54a0463f f67024bd7ef22cba0ade8d726a3f17819a297f94 buithethang <buithang22072003@gmail.com> 1727148936 +0000	commit: Thêm file testput.txt
+f67024bd7ef22cba0ade8d726a3f17819a297f94 44ed53de2a536714c96463a55371bc52aa706fa5 buithethang <buithang22072003@gmail.com> 1727149144 +0000	commit: 3
+44ed53de2a536714c96463a55371bc52aa706fa5 8179f1f98d1abb4715c932b5b7d1738bb77e24b3 buithethang <buithang22072003@gmail.com> 1727149308 +0000	commit: Xóa file 3.txt
+8179f1f98d1abb4715c932b5b7d1738bb77e24b3 c6e8d62294167696b84fb1b066dc31d9f9cbfe0d buithethang <buithang22072003@gmail.com> 1727149727 +0000	commit: thay doi noi dung 1
+c6e8d62294167696b84fb1b066dc31d9f9cbfe0d f8bf9d258b9c8c2da70430cef693ca4e9068eda9 buithethang <buithang22072003@gmail.com> 1727149831 +0000	commit: thay doi noi dung 2
+f8bf9d258b9c8c2da70430cef693ca4e9068eda9 8741861ac40e2e6d29a7b165c329bc4e00184ff2 buithethang <buithang22072003@gmail.com> 1727150005 +0000	commit: Thêm file.txt với nội dung ban đầu
+8741861ac40e2e6d29a7b165c329bc4e00184ff2 8741861ac40e2e6d29a7b165c329bc4e00184ff2 buithethang <buithang22072003@gmail.com> 1727150011 +0000	checkout: moving from main to branch1
+8741861ac40e2e6d29a7b165c329bc4e00184ff2 e4c3d31d5b15ce0279220de11d61526d9ed666a3 buithethang <buithang22072003@gmail.com> 1727150032 +0000	commit: Thay đổi nội dung trong branch1
+e4c3d31d5b15ce0279220de11d61526d9ed666a3 8741861ac40e2e6d29a7b165c329bc4e00184ff2 buithethang <buithang22072003@gmail.com> 1727150037 +0000	checkout: moving from branch1 to main
+8741861ac40e2e6d29a7b165c329bc4e00184ff2 8741861ac40e2e6d29a7b165c329bc4e00184ff2 buithethang <buithang22072003@gmail.com> 1727150040 +0000	checkout: moving from main to main
+8741861ac40e2e6d29a7b165c329bc4e00184ff2 cef1de6eaf83c7b79bfe2b7a832541e9b2592d9b buithethang <buithang22072003@gmail.com> 1727150066 +0000	commit: Thay đổi nội dung trong main
+cef1de6eaf83c7b79bfe2b7a832541e9b2592d9b 58c2d2f409e7d89e7aed44af8be43e8c936e8963 buithethang <buithang22072003@gmail.com> 1727150121 +0000	commit (merge): Giải quyết xung đột giữa main và branch1
